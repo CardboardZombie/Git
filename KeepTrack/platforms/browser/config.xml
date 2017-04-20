@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.cybertadhg.keeptrack" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>KeepTrack</name>
+    <description>
+        An App to Keep Track of Small Tasks that can be a struggle to Remember.
+    </description>
+    <author email="tdeeney19@gmail.com" href="http://twitter.com/TDeeney">
+        Tadhg Deeney
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
